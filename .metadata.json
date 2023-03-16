@@ -1,0 +1,10 @@
+[
+  {
+    "package": "modifiedmk",
+    "oncran": true
+  },
+  {
+    "package": "trendchange",
+    "oncran": true
+  }
+]
