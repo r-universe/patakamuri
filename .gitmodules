@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "modifiedmk"]
 	path = modifiedmk
 	url = https://github.com/patakamuri/modifiedmk
-	shallow = true
-	registered = true
 [submodule "trendchange"]
 	path = trendchange
 	url = https://github.com/patakamuri/trendchange
-	shallow = true
-	registered = true
